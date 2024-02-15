@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-import productsJSON from "./products.json";
+// import productsJSON from "./products.json";
 import { LoadingCard } from "./components/LoadingCard";
 import { ProductCard } from "./components/ProductCard";
 
