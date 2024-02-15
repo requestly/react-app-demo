@@ -22,7 +22,7 @@ function App() {
         )
         .catch((error) => {
           console.log(error);
-          setProducts(productsJSON);
+          // setProducts(productsJSON);
           setIsLoading(false);
         });
     }, 500);
